@@ -1,0 +1,40 @@
+body {
+    font-size: 24px;
+
+}
+.red {
+    color: red;
+}
+.bold {
+    font-weight: bold;
+}
+li.blue {
+    color: blue;
+}
+li.magenta {
+    color: magenta;
+}
+li.red {
+    color: red;
+}
+span.xx-small {
+    font-size: 20px;
+}
+span.x-small {
+    font-size: 30px;
+}
+span.small {
+    font-size: 40px;
+}
+span.medium {
+    font-size: 50px;
+}
+span.large {
+    font-size: 60px;
+}
+span.x-large {
+    font-size: 70px;
+}
+span.xx-large {
+    font-size: 80px;
+}
